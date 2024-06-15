@@ -15,7 +15,7 @@ TECH/framework used
 this site wasbuilt using Github Pages;
 <ul>
 <li>
-<a href="https://dilshan10.github.io/My-portfoliyo/">GitHub Page URL</a>
+<a href="https://isneha44.github.io/My-Portfoliyo/">GitHub Page URL</a>
 </li>
 </ul>
 
