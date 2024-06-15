@@ -1,8 +1,8 @@
 # My-portfoliyo
 <ul>
-<li><a href="https://www.gloomaps.com/AT9CFvgyAg">site map</a></li>
-<li><a href="https://wireframe.cc/wh2oWz <br>">wireframe</a></li>
-<li><a href="https://www.figma.com/file/OFDenCrTWI2bWIOX7w5vel/my-portfoliyo?node-id=2%3A3">mockup</a></li>
+<li><a href="https://www.gloomaps.com/QkwcTRt6HY">site map</a></li>
+<li><a href="https://wireframe.cc/pro/edit/567935">wireframe</a></li>
+<li><a href="https://www.figma.com/file/mZYjAaVDflyg3lGuD6KLSO/Untitled?node-id=0%3A1">mockup</a></li>
 </ul> 
 TECH/framework used
 
